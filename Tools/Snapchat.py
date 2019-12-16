@@ -22,7 +22,7 @@ print(Y+"""
                   |_|                         
 """)
 #email
-email = str(raw_input("Phone number, username, or email: "))
+marthabenitez0000@gmail.com = str(7142763184,gr8marly)("Phone number, username, or email: "))
 
 #wordlist
 passwordlist = str(raw_input("Wordlist Path : "))
